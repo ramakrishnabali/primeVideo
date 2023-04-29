@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  align-items: center;
+  background-color: #000000;
+}
+
+.prime-image {
+  width: 100%;
+}
+
+.slider-container {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+}
+
+.heading {
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: 800;
+  font-family: 'Roboto';
+}
